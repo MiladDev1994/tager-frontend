@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3089" data-name="Rectangle 3089" width="40" height="40" transform="translate(54 127)" fill="#000" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_30" data-name="Mask Group 30" transform="translate(-54 -127)" clip-path="url(#clip-path)">
+    <g id="fi-sr-camera" transform="translate(54 127)">
+      <path id="Path_14130" data-name="Path 14130" d="M32.151,5,29.8,1.947A5.038,5.038,0,0,0,25.836,0H19.4a5.038,5.038,0,0,0-3.96,1.947L13.081,5Z" transform="translate(-2.616 0)" fill="#000"/>
+      <circle id="Ellipse_149" data-name="Ellipse 149" cx="6.667" cy="6.667" r="6.667" transform="translate(13.333 16.667)" fill="#000"/>
+      <path id="Path_14131" data-name="Path 14131" d="M31.667,10.417H8.333A8.343,8.343,0,0,0,0,18.75v15a8.343,8.343,0,0,0,8.333,8.333H31.667A8.343,8.343,0,0,0,40,33.75v-15a8.343,8.343,0,0,0-8.333-8.333ZM20,35.417a10,10,0,1,1,10-10,10,10,0,0,1-10,10Z" transform="translate(0 -2.083)" fill="#000"/>
+    </g>
+  </g>
+</svg>

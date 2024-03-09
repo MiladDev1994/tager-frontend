@@ -1,0 +1,22 @@
+@use "../Components/Styles/pallet.scss";
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: pallet.$colorLightishGray;
+    .mainContainer {
+        width: 100%;
+        flex: auto;
+        height: 10rem;
+        .mainBox {
+            max-width: 120rem;
+            height: 100%;
+            display: flex;
+            margin: auto;
+        }
+    }
+}

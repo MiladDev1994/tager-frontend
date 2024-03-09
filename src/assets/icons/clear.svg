@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #3f3f46;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5601" data-name="Rectangle 5601" class="cls-1" width="32" height="32" transform="translate(1500 170)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_167" data-name="Mask Group 167" class="cls-2" transform="translate(-1500 -170)">
+    <g id="fi-rr-cross-circle" transform="translate(1504 174)">
+      <path id="Path_23347" data-name="Path 23347" class="cls-3" d="M18.462,10.565a.987.987,0,0,0-1.4,0l-2.553,2.553-2.553-2.553a.987.987,0,1,0-1.4,1.4l2.553,2.553-2.553,2.553a.987.987,0,1,0,1.4,1.4l2.553-2.553,2.553,2.553a.987.987,0,1,0,1.4-1.4L15.91,14.514l2.553-2.553A.987.987,0,0,0,18.462,10.565Z" transform="translate(-2.514 -2.514)"/>
+      <path id="Path_23348" data-name="Path 23348" class="cls-3" d="M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm0,22A10,10,0,1,1,22,12,10,10,0,0,1,12,22Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

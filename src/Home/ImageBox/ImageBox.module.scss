@@ -1,0 +1,41 @@
+@use "../../Components/Styles/pallet.scss";
+
+.imageContainer{
+    flex: auto;
+    padding: 0.6rem;
+    
+    .imageBox{
+        height: 100%;
+        border-radius: 0.6rem;
+        box-sizing: border-box;
+        padding: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        transition: 0.3s;
+        .image{
+            padding: 0.2rem;
+            transition: 0.3s;
+            aspect-ratio: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            img {
+                height: 100%;
+                border-radius: 0.6rem;
+                box-shadow: 0 5px 20px #b3b3b3;
+            }
+        }
+
+        
+    }
+    .imageBoxBorderOn {
+        border: 2px dashed green;
+        background-color: pallet.$colorLightGreen;
+    }
+    .imageBoxBorderOff {
+        background-color: pallet.$colorWhite;
+        border: 2px solid pallet.$colorLighterGray;
+    }
+}
